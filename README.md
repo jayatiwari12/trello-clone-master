@@ -1,1 +1,1 @@
-This is my new project trello-clone-master
+This is my new project trello-clone-master.
